@@ -2,9 +2,11 @@ header {
     text-align: center;
     background-color: firebrick;
     text-decoration-color: chartreuse;
+    color: black;
 }
 body {
     text-align: center;
     background-color: chartreuse;
     text-decoration-color: firebrick;
+    color: black;
 }
